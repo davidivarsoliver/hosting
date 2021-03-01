@@ -1,0 +1,1 @@
+idUsuari::nom::cognom::correu::clauusuari::tipuscompte::fecha::imatgeperfil 

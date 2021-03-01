@@ -1,0 +1,4 @@
+idUsuari::nom::cognom::correu::clauusuari::tipuscompte::fecha::imatgeperfil 
+-1::admin::admin::davidivars9@gmail.com::$2y$10$mG6sQpG6q1pUCT/fCD1D3eVzuhQWhJcThGpOv12Z01Jcg1QNSKjxa::Normal::2021-02-08 19:22:27::davidivars9@gmail.com.png 
+75::Dada::dada::davidownsking@gmail.com::$2y$10$bIRjrbdhO5fFL7uWuBl5NukNWKGxD8Zt4LSn0QseQZ8ywUqGG7JYK::Normal::2021-02-28 22:41:21::davidownsking@gmail.com.jpeg 
+76::David::Ivars::davidfire95@gmail.com::$2y$10$HMKxMjX4wtD.UE.D.4bd8eqha4OI0LXPEs9hsxfD0pvPOdxgBFtWq::Normal::2021-02-28 23:33:07:: 

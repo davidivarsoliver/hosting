@@ -1,0 +1,87 @@
+body {
+    background-color: bisque;
+}
+
+a {
+    color: #1E2425;
+}
+
+h1 {
+    text-align: center;
+    width: auto;
+    font-family: monospace;
+    background-color: #3a4eff;
+    color: #1E2425;
+    font-size: 40px;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+h2 {
+    font-family: monospace;
+    width: auto;
+    font-size: 30px;
+    text-align: center;
+    background-color: #3a47ff;
+    color: #1E2425;
+    padding: 8px;
+    margin-top: -15px;
+}
+
+h3 {
+    text-align: center;    
+    font-size: 20px;
+    font-family: monospace;
+    background-color: #3a96ff;
+    color: #1E2425;
+    padding: 8px;
+}
+
+.nom_caracters {
+    background-color: #3a3dff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;       
+    height: 70px;
+    margin: 0 auto;
+    margin-left: -83px;
+}
+
+.formulario {
+    color: #561f75;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 15px;
+
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.div_formulario {
+    display: block;
+    text-align: center;
+}
+
+ul {
+    width: 100%;
+    vertical-align: middle;
+    color: #5bff3a;
+}
+
+.etiquetas {
+    display: inline-flex;
+}
+
+.campos_rellenar {
+    display: inline-flex;
+}
+
+fieldset {
+    border: 3px solid white;
+    width: 400px;
+    float: right;
+}
+

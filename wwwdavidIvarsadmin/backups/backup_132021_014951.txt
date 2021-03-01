@@ -1,0 +1,7 @@
+idUsuari::nom::cognom::correu::clauusuari::tipuscompte::fecha::imatgeperfil 
+-1::admin::admin::davidivars9@gmail.com::$2y$10$mG6sQpG6q1pUCT/fCD1D3eVzuhQWhJcThGpOv12Z01Jcg1QNSKjxa::Normal::2021-02-08 19:22:27::davidivars9@gmail.com.png 
+75::Dada::dada::davidownsking@gmail.com::$2y$10$bIRjrbdhO5fFL7uWuBl5NukNWKGxD8Zt4LSn0QseQZ8ywUqGG7JYK::Normal::2021-02-28 22:41:21::davidownsking@gmail.com.jpeg 
+76::David::Ivars::davidfire95@gmail.com::$2y$10$HMKxMjX4wtD.UE.D.4bd8eqha4OI0LXPEs9hsxfD0pvPOdxgBFtWq::Normal::2021-02-28 23:33:07:: 
+79::dAVID::TEST::davidtest@gmail.com::$2y$10$49Io7xvJFl1JuvEnHJxQT.IJRg.XkO7pr52lPL8dLCYcmQGwdqbIa::Premium::2021-03-01 01:27:52::davidtest@gmail.com.jpeg 
+80::dadad::adada::dada@gmail.com::$2y$10$L97y817bj9ZtjqwgyRSy3.oQgrfBE.16gWBvZcxp/s5kuP/aG9Rki::Normal::2021-03-01 01:31:21::dada@gmail.com.png 
+81::dadas::dada::da2@gmail.com::$2y$10$G6GJRkAIXFG4s1V1oYlHX.CD7eWkSjR52Q8YmZXEJ50xRSNCCL3Ua::Normal::2021-03-01 01:32:25:: 
